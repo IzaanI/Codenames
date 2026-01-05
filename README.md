@@ -5,7 +5,7 @@ A web-based, 2-player local multiplayer adaptation of the popular social deducti
 
 
 ## 🚀 Live Demo
-[Link to your hosted site (e.g., Vercel/GitHub Pages)]
+[https://izaani.github.io/Codenames/]
 
 ## 📖 Overview
 This project recreates the "Codenames" experience for two players sharing a single device. One player takes the role of the **Spymaster**, and the other acts as the **Operative**. The game challenges players to communicate effectively through one-word clues while avoiding the "Assassin" card.
@@ -20,7 +20,7 @@ This project recreates the "Codenames" experience for two players sharing a sing
 * **Frontend:** React.js (Functional Components)
 * **Styling:** CSS3 (Flexbox for the game board)
 * **State Management:** React `useState` for game logic
-* **Deployment:** [e.g., Vercel / Netlify]
+* **Deployment:** [https://izaani.github.io/Codenames/]
 
 ## 📸 Screenshots
 <img width="1912" height="980" alt="image" src="https://github.com/user-attachments/assets/b3414be6-70c9-4cac-b54e-18c8fdc37ceb" />
