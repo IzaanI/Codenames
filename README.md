@@ -23,9 +23,9 @@ This project recreates the "Codenames" experience for two players sharing a sing
 * **Deployment:** [e.g., Vercel / Netlify]
 
 ## 📸 Screenshots
-| Spymaster View | Operative View |
-|---|---|
-| ![Spymaster](https://via.placeholder.com/300x200?text=Spymaster+View) | ![Operative](https://via.placeholder.com/300x200?text=Operative+View) |
+<img width="1912" height="980" alt="image" src="https://github.com/user-attachments/assets/b3414be6-70c9-4cac-b54e-18c8fdc37ceb" />
+<img width="1887" height="948" alt="image" src="https://github.com/user-attachments/assets/8c7f30b8-9467-4093-8a31-d1f132f97d66" />
+
 
 ## ⚙️ Installation & Setup
 To run this project locally:
